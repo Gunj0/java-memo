@@ -6,17 +6,19 @@
 - JRE: Java Runtime Environment
   - Java の実行に必要な環境
   - JDK に含まれる
-  
+
 ## 種類
 
-- Oracle JDK: Oracle 社が提供する公式の JDK
-- OpenJDK: オープンソースの JDK
-- AdoptOpenJDK: OpenJDK をベースにした配布版
-- Amazon Corretto: Amazon が提供する OpenJDK の配布版
-- GraalVM: 高性能な JVM とネイティブイメージ生成をサポートする JDK
-- Liberica JDK: BellSoft が提供する OpenJDK の配布版
-- Zulu OpenJDK: Azul Systems が提供する OpenJDK の配布版
-- Temurin: Eclipse Foundation が提供する OpenJDK の配布版
+- [Oracle JDK](https://www.oracle.com/jp/java/technologies/downloads/)
+  - Oracle 社が提供する公式の JDK, 商用利用にはライセンスが必要
+- [Eclipse Temurin](https://adoptium.net/ja/temurin)
+  - Eclipse Foundation が提供する OpenJDK の配布版, 無償で利用可能
+- [Amazon Corretto](https://aws.amazon.com/corretto/)
+  - Amazon が提供する OpenJDK の配布版, 無償で利用可能
+- [Microsoft Build of OpenJDK](https://learn.microsoft.com/ja-jp/java/openjdk/)
+  - Microsoft が提供する OpenJDK の配布版, 無償で利用可能
+- [Red Hat OpenJDK](https://developers.redhat.com/products/openjdk/download)
+  - Red Hat が提供する OpenJDK の配布版, 無償で利用可能
 
 ## インストール方法
 

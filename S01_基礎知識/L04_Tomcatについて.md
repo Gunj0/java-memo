@@ -1,9 +1,9 @@
 # Tomcatについて
 
 - [Tomcat](https://tomcat.apache.org/)
-- Java の Web アプリを実行するためのサーブレットコンテナ
-- Java Servlet, JavaServer Pages (JSP) などの Java Web 技術をサポート
-- Apache ソフトウェア財団が開発・提供している
+  - Java の Web アプリを実行するためのサーブレットコンテナ
+  - Java Servlet, JavaServer Pages (JSP) などの Java Web 技術をサポート
+  - Apache ソフトウェア財団が開発・提供している
 
 ## インストール方法
 

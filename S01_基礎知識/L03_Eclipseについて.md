@@ -1,15 +1,15 @@
 # Eclipse について
 
 - [Eclipse](https://www.eclipse.org/)
-- OSS の統合開発環境（IDE）
-- Java 開発によく使われる
-- IBM が開発に関わっている
-- プラグイン等で C/C++ や他の言語の開発も可能
+  - OSS の統合開発環境（IDE）
+  - Java 開発によく使われる
+  - IBM が開発に関わっている
+  - プラグイン等で C/C++ や他の言語の開発も可能
 
 ## インストール方法
 
 - winget からインストール
-  - `winget install EclipseFoundation.EclipseIDE.`
+  - https://winstall.app/apps/EclipseFoundation.Eclipse.JEE
 - Pleiades (Eclipse 日本語化プラグイン) をダウンロードしてインストール
   - https://willbrains.jp/#pleiades.html
   - > 「Pleiades プラグイン・ダウンロード」からダウンロード
@@ -29,3 +29,14 @@
 ## パースペクティブ設定
 
 - ウィンドウ > パースペクティブ > パースペクティブを開く > その他 > Web
+
+## フォント
+
+- ウィンドウ > 設定 > 一般 > 外観 > 色とフォント
+  - Java > Java エディター > 編集
+    - フォント名、フォントサイズを変更する
+    - 文字セットを変更する
+
+## ショートカット
+
+- Ctrl + Shift + F: ファイルをフォーマットする
